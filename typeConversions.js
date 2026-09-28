@@ -1,0 +1,2 @@
+console.log(`8 * null = ${8 * null}\nnull == undefined = ${null == undefined}\nnull == 0 = ${null == 0}\n"5" - 1 = ${"5" - 1}\n"5" + 1 = ${"5" + 1}\n"five" * 2 = ${"five" * 2}\nfalse == 0 = ${false == 0}\n\n\
+false === 0 = ${false === 0}\n"" === false = ${"" === false}`);

@@ -1,0 +1,1 @@
+console.log('Hello & hi there, world of CSET!\nThe creator of this program is:\n\tAustin Rabert\n\t22 years old\n\tCSET 105-120 freshman student @\n\tThaddeus Stevens College of Technology');

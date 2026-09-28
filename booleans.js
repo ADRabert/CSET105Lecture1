@@ -1,0 +1,4 @@
+console.log(`3 > 2 = ${3 > 2}\n3 < 2 = ${3 < 2}\nAardvark < Zoroaster = ${"Aardvark" < "Zoroaster"}\nItchy != Scratchy = ${"Itchy" != "Scratchy"}\nApple == Orange = ${"Apple" == "Orange"}\n\n\
+13 > 12 = ${13 > 12}\n13 > 13 = ${13 > 13}\n13 >= 13 = ${13 >= 13}\n13 == 13 = ${13 == 13}\n13 != 13 = ${13 != 13}\n\ntrue && false = ${true && false}\ntrue && true = ${true && true}\n\
+false || true = ${false || true}\nfalse || false = ${false || false}\n\ntrue ? 1 : 2 = ${true ? 1 : 2}\nfalse ? 1 : 2 = ${false ? 1 : 2}\n1 + 1 == 2 && 10 * 10 > 50 = ${1 + 1 == 2 && 10 * 10 > 50}\n\n\
+Aardvark >= Ant || 4 - 1 <= 2 * 0 = ${"Aardvark" >= "Ant" || 4 - 1 <= 2 * 0}`);

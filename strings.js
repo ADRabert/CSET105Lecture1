@@ -1,0 +1,2 @@
+console.log('This is the first line,\nand this is the second.\nA new line character is written as "\\n".\n\nCon' + 'cat' + 'e' + 'na' + 'tion\n- CSET ' + 'Morning ' + `Section\n\n\
+My name is Austin, and I am 22 years old.\nI will be ${22 + 23} in 23 years.`);
